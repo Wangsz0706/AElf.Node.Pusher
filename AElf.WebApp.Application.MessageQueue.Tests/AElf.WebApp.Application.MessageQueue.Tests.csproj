@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MartinCostello.Logging.XUnit" Version="0.1.0" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
+        <PackageReference Include="NUnit" Version="3.13.2" />
+        <PackageReference Include="NUnit3TestAdapter" Version="4.0.0" />
+        <PackageReference Include="coverlet.collector" Version="3.1.0" />
+        <PackageReference Include="Volo.Abp.Core" Version="5.2.2" />
+        <PackageReference Include="Volo.Abp.Autofac" Version="5.2.2" />
+        <PackageReference Include="Volo.Abp.AspNetCore.TestBase" Version="5.2.2" />
+        <PackageReference Include="Shouldly" Version="4.0.3" />
+        <PackageReference Include="xunit" Version="2.4.1" />
+        <PackageReference Include="xunit.runner.console" Version="2.4.1" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AElf.Kernel.Core.Tests\AElf.Kernel.Core.Tests.csproj" />
+      <ProjectReference Include="..\AElf.Kernel.TestBase\AElf.Kernel.TestBase.csproj" />
+      <ProjectReference Include="..\AElf.TestBase\AElf.TestBase.csproj" />
+      <ProjectReference Include="..\AElf.WebApp.MessageQueue\AElf.WebApp.MessageQueue.csproj" />
+    </ItemGroup>
+
+</Project>

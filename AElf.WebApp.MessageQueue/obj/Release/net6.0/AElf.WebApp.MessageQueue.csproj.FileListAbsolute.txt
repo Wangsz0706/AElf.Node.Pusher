@@ -1,0 +1,12 @@
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/bin/Release/net6.0/AElf.WebApp.MessageQueue.deps.json
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/bin/Release/net6.0/AElf.WebApp.MessageQueue.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/bin/Release/net6.0/ref/AElf.WebApp.MessageQueue.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/bin/Release/net6.0/AElf.WebApp.MessageQueue.pdb
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/AElf.WebApp.MessageQueue.csproj.AssemblyReference.cache
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/AElf.WebApp.MessageQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/AElf.WebApp.MessageQueue.AssemblyInfoInputs.cache
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/AElf.WebApp.MessageQueue.AssemblyInfo.cs
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/AElf.WebApp.MessageQueue.csproj.CoreCompileInputs.cache
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/AElf.WebApp.MessageQueue.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/ref/AElf.WebApp.MessageQueue.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue/obj/Release/net6.0/AElf.WebApp.MessageQueue.pdb

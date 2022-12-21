@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AElf.Core" Version="1.2.1" />
+        <PackageReference Include="AElf.Kernel.Consensus.Core" Version="1.2.1" />
+        <PackageReference Include="AElf.Kernel.SmartContract" Version="1.2.1" />
+        <PackageReference Include="AElf.WebApp.Application.Core" Version="1.2.1" />
+        <PackageReference Include="Volo.Abp.EventBus.RabbitMQ" Version="5.2.2" />
+        <PackageReference Include="Volo.Abp.Caching.StackExchangeRedis" Version="5.2.2" />
+        <PackageReference Include="Microsoft.AspNetCore.DataProtection.StackExchangeRedis" Version="6.0.*" />
+        <PackageReference Include="Volo.Abp.Caching" Version="5.2.2" />
+    </ItemGroup>
+</Project>

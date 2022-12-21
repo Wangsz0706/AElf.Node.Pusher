@@ -1,0 +1,15 @@
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/bin/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.deps.json
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/bin/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/bin/Release/net6.0/ref/AElf.WebApp.MessageQueue.RabbitMQ.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/bin/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.pdb
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/bin/Release/net6.0/AElf.WebApp.MessageQueue.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/bin/Release/net6.0/AElf.WebApp.MessageQueue.pdb
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.csproj.AssemblyReference.cache
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.AssemblyInfoInputs.cache
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.AssemblyInfo.cs
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.csproj.CoreCompileInputs.cache
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.csproj.CopyComplete
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/ref/AElf.WebApp.MessageQueue.RabbitMQ.dll
+/Users/wangshuangzhe/RiderProjects/AElf.Node.Pusher/AElf.WebApp.MessageQueue.RabbitMQ/obj/Release/net6.0/AElf.WebApp.MessageQueue.RabbitMQ.pdb
